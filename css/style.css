@@ -37,5 +37,15 @@
  margin-top: 20px;
  border-radius: 15px;
  padding: 10px;
+ cursor: pointer;
+ transition: 0.5s all ease;
 }
+.container .slick-wrapper img:hover{
+ cursor: pointer;
+ transition: 0.5s all ease;
+ transform: scale(1.1);
+}
+
+
+
 
